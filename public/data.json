@@ -1,0 +1,15 @@
+
+[
+  { "id": 1, "image": "/chair.jpg", "name": "Chair", "category": "Furniture", "Price": 2000, "rating": "⭐⭐⭐⭐"},
+  { "id": 2, "image": "/shirt.jpg", "name": "Shirt", "category": "Fashion", "Price": 800, "rating": "⭐⭐⭐" },
+  { "id": 3, "image": "/sofa.jpg", "name": "Sofa", "category": "Furniture", "Price": 15000, "rating": "⭐⭐⭐⭐"},
+  { "id": 4, "image": "/shirt1.jpg", "name": "Shirt", "category": "Fashion", "Price": 1000, "rating": "⭐⭐⭐"},
+  { "id": 5, "image": "/shirt2.jpg", "name": "Shirt", "category": "Fashion", "Price": 1100, "rating": "⭐⭐⭐⭐"},
+  { "id": 6, "image": "/shirt3.jpg", "name": "Shirt", "category": "Fashion", "Price": 1800, "rating": "⭐⭐"},
+  {"id": 7, "image": "/chair1.jpg", "name": "Chair", "category": "Furniture", "Price": 2000, "rating": "⭐⭐⭐"},
+  {"id": 8, "image": "/sofa1.jpg", "name": "Sofa", "category": "Furniture", "Price": 20000, "rating": "⭐⭐⭐⭐"},
+  {"id": 9, "image": "/mobile.jpg", "name": "I Phone", "category": "Electronics", "Price": 45000, "rating": "⭐⭐⭐⭐"},
+  {"id": 10, "image": "/mobile1.jpg", "name": "Samsung", "category": "Electronics", "Price": 20000, "rating": "⭐⭐⭐"},
+  {"id": 11, "image": "/mobile2.jpg", "name": "One Plus", "category": "Electronics", "Price": 35000, "rating": "⭐⭐⭐⭐"},
+  {"id": 12, "image": "/book.jpg", "name": "Book", "category": "Books", "Price": 200, "rating": "⭐⭐⭐⭐"}
+]
